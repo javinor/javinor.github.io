@@ -4,7 +4,7 @@ remote_theme: fongandrew/hydeout
 # Setup
 title:            Jonathan Avinor
 # tagline:          'A Jekyll theme'
-description:      'Talks, Workshops, Math and Code'
+# description:      'Talks, Workshops, Math and Code'
 url:              https://javinor.github.io
 # baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
