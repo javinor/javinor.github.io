@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshops
-sidebar_link: true
+sidebar_link: false
 ---
 
 # Domain Modelling with Types & ReasonML

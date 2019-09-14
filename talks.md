@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talks
-sidebar_link: true
+sidebar_link: false
 ---
 
 # 7±2 Reasons Psychology Will Help You Write Better Code
