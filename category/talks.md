@@ -3,5 +3,4 @@ layout: category
 title: Talks
 ---
 
-Here will be some stuff about Talks
-
+<img src="/assets/img/wixeng-2018.jpg" style="width:100%"/>

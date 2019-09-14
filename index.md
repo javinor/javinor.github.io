@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About me
 ---
+
+<img src="/assets/img/profile.png" style="width:10rem; margin: 0 auto;border-radius: 5rem"/>
 
 I'm a father and a husband.
 

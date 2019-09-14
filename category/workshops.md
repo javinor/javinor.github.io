@@ -3,5 +3,5 @@ layout: category
 title: Workshops
 ---
 
-Here will be some stuff about Workshops
+<img src="/assets/img/workshop.jpg" style="width:100%"/>
 
